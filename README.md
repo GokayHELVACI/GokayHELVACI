@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GokayHELVACI
-- 👀 I’m interested in proframing
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
